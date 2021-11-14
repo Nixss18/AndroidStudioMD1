@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">MD1</string>
-    <string name="group_name">This is the first application from Group #03 \n 1. Niks Grigors \n 2. Raivis Tarakanovs \n 3. Linards Sadovskis \n Application
-    was developed by Niks Grigors</string>
+    <string name="app_name">MyHeloWorld</string>
+    <string name="hello_group_name">This is the first application from Group #03 \n Raivis Tarakanovs \n Niks Grigors \n Linards Sadovskis \n And the application was developed by Raivis Tarakanovs</string>
 </resources>

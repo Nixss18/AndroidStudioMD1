@@ -6,8 +6,8 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.example.md1"
-        minSdk 21
+        applicationId "com.example.myheloworld"
+        minSdk 28
         targetSdk 31
         versionCode 1
         versionName "1.0"
